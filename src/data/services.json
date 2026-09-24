@@ -1,0 +1,1190 @@
+{
+  "company": {
+    "name": "TACO GLOBAL",
+    "motto": "Excellence with Divinity",
+    "studiosName": "TACO STUDIOS",
+    "tagline": "The Premier Global Ecosystem for Strategy, Digital Execution, and High-Performance Solutions.",
+    "phone": "+233 20 5551 7659",
+    "whatsapp": "2332055517659",
+    "email": "inquiries@tacoglobal.org",
+    "officeLocations": [
+      {
+        "city": "Accra",
+        "region": "Greater Accra, Ghana",
+        "focus": "West Africa Executive Hub"
+      },
+      {
+        "city": "London",
+        "region": "United Kingdom",
+        "focus": "Global Diaspora & Corporate Partnerships"
+      },
+      {
+        "city": "Remote",
+        "region": "Worldwide",
+        "focus": "Global 24/7 Digital Delivery"
+      }
+    ],
+    "paymentMethods": [
+      "Paystack Online Gateway (Credit/Debit Cards, Bank Transfer)",
+      "Mobile Money (MTN MoMo, Telecel Cash, AirtelTigo)",
+      "Direct Wire Transfer (USD, GBP, GHS, EUR)"
+    ]
+  },
+  "categories": [
+    {
+      "id": "creative-digital",
+      "slug": "creative-digital",
+      "name": "Creative & Digital",
+      "tagline": "Brand Identity, Interactive Web Engineering & Visual Systems",
+      "description": "Transforming brands into unforgettable digital powerhouses with high-craft design and rock-solid code.",
+      "startingPriceNote": "From $75",
+      "iconName": "Palette",
+      "services": [
+        {
+          "id": "logo-design",
+          "slug": "logo-design",
+          "title": "Corporate Logo & Visual Mark",
+          "categoryId": "creative-digital",
+          "categoryName": "Creative & Digital",
+          "startingPrice": 75,
+          "currency": "USD",
+          "turnaroundTime": "3–5 business days",
+          "badge": "High Demand",
+          "headline": "A bespoke, enduring brand mark engineered for digital clarity and executive authority.",
+          "overview": "Your logo is the frontline of your enterprise identity. TACO STUDIOS crafts custom typographic and symbolic logos rooted in commercial research, brand psychology, and timeless aesthetics. Delivered in full vector formats ready for billboards, mobile apps, and premium packaging.",
+          "targetAudience": [
+            "Early-stage startups needing instant credibility",
+            "SMEs and boutique firms undergoing a rebrand",
+            "Personal brands, consultants, and public figures"
+          ],
+          "deliverables": [
+            "3 original, distinct design concepts",
+            "Full vector master files (AI, EPS, SVG)",
+            "High-resolution transparent web assets (PNG, JPG, WebP)",
+            "Dark and light background variations",
+            "Monochrome & inverted stamp lockups",
+            "Official Color Palette Breakdown (HEX, RGB, CMYK, Pantone)",
+            "Typography pairing recommendation guide"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Discovery & Creative Brief",
+              "duration": "Day 1",
+              "description": "Intake of your vision, target demographic, industry benchmarks, and aesthetic direction."
+            },
+            {
+              "phase": "02. Concept Ideation & Geometry",
+              "duration": "Day 2–3",
+              "description": "Design exploration, optical alignment, and construction of 3 signature directions."
+            },
+            {
+              "phase": "03. Client Review & Polish",
+              "duration": "Day 4",
+              "description": "Collaborative feedback cycle and micro-adjustments to font tracking, curves, and weights."
+            },
+            {
+              "phase": "04. Master Export & Package Handoff",
+              "duration": "Day 5",
+              "description": "Exporting full production-grade vector suites with commercial copyright transfer."
+            }
+          ],
+          "clientInputsRequired": [
+            "Company / Project Name & exact capitalization",
+            "Tagline or slogan (if applicable)",
+            "Target audience and primary industry",
+            "Aesthetic moodboard or 3 reference brand styles you admire",
+            "Preferred color tones or strict brand guidelines to observe"
+          ],
+          "tiers": [
+            {
+              "name": "Standard Identity Mark",
+              "price": 75,
+              "deliveryDays": "3-5 days",
+              "description": "Ideal for new ventures needing an authentic, high-impact vector logo mark.",
+              "highlights": [
+                "2 core concepts",
+                "Master vector files",
+                "Transparent PNGs",
+                "2 revision rounds"
+              ]
+            },
+            {
+              "name": "Executive Brand Lockup",
+              "price": 140,
+              "deliveryDays": "3 days",
+              "description": "Comprehensive lockups including horizontal, stacked, and favicon variations.",
+              "highlights": [
+                "4 distinct concepts",
+                "Favicon & App icon kit",
+                "Brand color specification",
+                "Social media avatars",
+                "Unlimited revisions"
+              ]
+            }
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "brand-identity-system",
+          "slug": "brand-identity-system",
+          "title": "Full Brand Identity System",
+          "categoryId": "creative-digital",
+          "categoryName": "Creative & Digital",
+          "startingPrice": 180,
+          "currency": "USD",
+          "turnaroundTime": "5–7 business days",
+          "badge": "Signature",
+          "headline": "A unified visual identity guidelines manual and multi-surface brand asset kit.",
+          "overview": "A brand is far more than a logo; it is the coherent sensory experience across every touchpoint. We build comprehensive brand design systems that give your sales team, marketing agency, and developers a foolproof handbook to maintain brand integrity.",
+          "targetAudience": [
+            "Companies standardizing operations for multi-channel sales",
+            "Ventures pitching investors or scaling retail distribution",
+            "Institutions requiring strict governance across teams"
+          ],
+          "deliverables": [
+            "Official Brand Guidelines Book (PDF, 20+ pages)",
+            "Logo construction grids, clear space, and misuse rules",
+            "Primary & secondary typographic hierarchy specs",
+            "Digital & print color systems (Pantone, CMYK, RGB)",
+            "Custom stationery suite (Business cards, Letterhead, Envelope)",
+            "Social media profile banner & avatar templates (Figma/Canva)",
+            "Brand pattern library and graphic motifs"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Brand Architecture",
+              "duration": "Days 1–2",
+              "description": "Defining archetype, voice, competitive separation, and visual philosophy."
+            },
+            {
+              "phase": "02. Design System Prototyping",
+              "duration": "Days 3–4",
+              "description": "Building the grid, typography system, iconography, and stationery templates."
+            },
+            {
+              "phase": "03. Application & Guidelines Manual",
+              "duration": "Days 5–6",
+              "description": "Assembling the comprehensive rulebook and mockup stress tests."
+            },
+            {
+              "phase": "04. Final Deployment",
+              "duration": "Day 7",
+              "description": "Packaging print-ready press PDFs and cloud asset repository."
+            }
+          ],
+          "clientInputsRequired": [
+            "Current logo master vectors (or brief if creating new)",
+            "Core mission statement and values",
+            "Sample collateral required (e.g. stationery, ID cards, uniform motifs)",
+            "Existing marketing collateral for audit"
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "ui-ux-design",
+          "slug": "ui-ux-design",
+          "title": "High-Converting UI/UX Website Design",
+          "categoryId": "creative-digital",
+          "categoryName": "Creative & Digital",
+          "startingPrice": 500,
+          "currency": "USD",
+          "turnaroundTime": "7–10 business days",
+          "badge": "Popular",
+          "headline": "Figma-based web & mobile interfaces focused on clarity, engagement, and conversion.",
+          "overview": "We design high-fidelity, interactive digital prototypes built on strict UX principles, atomic design tokens, and human conversion psychology. Designed for zero-friction handoff to engineering teams.",
+          "targetAudience": [
+            "Tech startups preparing to build SaaS or mobile applications",
+            "Businesses upgrading outmoded, non-converting websites",
+            "E-commerce stores needing streamlined checkout funnels"
+          ],
+          "deliverables": [
+            "Interactive Figma design prototype with components & auto-layout",
+            "Desktop (1440px) and Mobile responsive screen layouts",
+            "Comprehensive Design Tokens (Colors, Typography, Spacing, Shadows)",
+            "Micro-interaction and hover state specifications",
+            "Developer handoff documentation and SVG iconography export"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Information Architecture & Wireframing",
+              "duration": "Days 1–3",
+              "description": "User journey mapping, low-fidelity wireframes, content hierarchy."
+            },
+            {
+              "phase": "02. High-Fidelity UI Prototyping",
+              "duration": "Days 4–7",
+              "description": "Polished visual craft, typography scale, responsive breakpoints."
+            },
+            {
+              "phase": "03. Interactive Prototype & Handoff",
+              "duration": "Days 8–10",
+              "description": "Clickable user test walkthrough, developer notes, asset export."
+            }
+          ],
+          "clientInputsRequired": [
+            "Page requirements list (e.g. Home, Services, Pricing, Contact)",
+            "Brand identity files and copy/content outlines",
+            "Competitor or benchmark websites for inspiration",
+            "Target device priorities (desktop-first vs. mobile-first)"
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "web-development",
+          "slug": "web-development",
+          "title": "Custom Production Web Development",
+          "categoryId": "creative-digital",
+          "categoryName": "Creative & Digital",
+          "startingPrice": 900,
+          "currency": "USD",
+          "turnaroundTime": "10–14 business days",
+          "badge": "Flagship",
+          "headline": "Ultra-fast, responsive web development built on modern React/Next.js frameworks.",
+          "overview": "Engineered for speed, SEO domination, and seamless mobile responsiveness. We write clean, semantic TypeScript code integrated with modern CMS platforms, payment gateways (Paystack, Stripe), and analytics.",
+          "targetAudience": [
+            "Corporations needing a fast, prestigious digital flagship",
+            "Fast-growing agencies and product companies",
+            "International organizations requiring zero downtime and high security"
+          ],
+          "deliverables": [
+            "Full-stack React / Next.js / Tailwind CSS production build",
+            "100% mobile-responsive across phones, tablets, and 4K displays",
+            "Lighthouse performance optimization score 90+",
+            "On-page technical SEO & Schema.org markup configuration",
+            "Payment gateway integration (Paystack / Mobile Money / Cards)",
+            "Automated lead capture form with email & database webhooks",
+            "Deployment on high-speed CDN (Vercel/Netlify/Cloud Run)"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Technical Architecture & Setup",
+              "duration": "Days 1–3",
+              "description": "Repository setup, Tailwind design tokens, base layout components."
+            },
+            {
+              "phase": "02. Feature & Page Development",
+              "duration": "Days 4–9",
+              "description": "Coding all responsive routes, interactive components, and dynamic modals."
+            },
+            {
+              "phase": "03. Integration & Payment Wiring",
+              "duration": "Days 10–12",
+              "description": "Connecting Paystack, lead forms, email triggers, and analytics."
+            },
+            {
+              "phase": "04. Performance Audit & Go-Live",
+              "duration": "Days 13–14",
+              "description": "Cross-browser testing, SEO audit, DNS configuration, and launch."
+            }
+          ],
+          "clientInputsRequired": [
+            "Approved UI designs (or select TACO design package)",
+            "Final written copy and photography/media assets",
+            "Domain registrar access & DNS configuration details",
+            "Payment processor account credentials (Paystack / Stripe)"
+          ],
+          "targetPersona": "entrepreneur"
+        }
+      ]
+    },
+    {
+      "id": "writing-comm",
+      "slug": "writing-comm",
+      "name": "Writing & Technical Communications",
+      "tagline": "Statements of Purpose, Executive CVs & High-Stakes Corporate Copy",
+      "description": "Precision academic and professional writing designed to win competitive university admissions, scholarship grants, and executive placements.",
+      "startingPriceNote": "From $80",
+      "iconName": "FileText",
+      "services": [
+        {
+          "id": "sop-writing",
+          "slug": "sop-writing",
+          "title": "Statement of Purpose (SOP) & Admissions Essay",
+          "categoryId": "writing-comm",
+          "categoryName": "Writing & Technical Communications",
+          "startingPrice": 100,
+          "currency": "USD",
+          "turnaroundTime": "3–5 business days",
+          "badge": "99.4% Success Rate",
+          "headline": "Compelling, rigorous personal statements for Master's, PhD, and prestigious scholarship programs.",
+          "overview": "Admissions committees read thousands of essays. We craft deeply authentic, academically rigorous narratives that articulate your intellectual trajectory, research alignment with faculty, and unique value proposition. Every essay is tailored to your target institution (Ivy League, Russell Group, Erasmus Mundus, DAAD, Commonwealth).",
+          "targetAudience": [
+            "Postgraduate applicants targeting top-tier global universities",
+            "Candidates competing for fully-funded international scholarships",
+            "Professionals transitioning into prestigious MBA programs"
+          ],
+          "deliverables": [
+            "Tailored Statement of Purpose (word count calibrated to target school)",
+            "Academic narrative alignment with faculty research and laboratory focus",
+            "Comprehensive line-by-line stylistic and grammatical polish",
+            "Turnitin plagiarism clearance report (100% original work)",
+            "Post-feedback revision round included"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Intake & Profile Assessment",
+              "duration": "Day 1",
+              "description": "In-depth review of your academic transcripts, CV, target courses, and career goals."
+            },
+            {
+              "phase": "02. Strategic Structuring & Drafting",
+              "duration": "Days 2–3",
+              "description": "Developing the central hook, intellectual evolution, and institutional synergy."
+            },
+            {
+              "phase": "03. Editorial Review & Refinement",
+              "duration": "Day 4",
+              "description": "Senior editor review for rhetorical flow, tone, and persuasiveness."
+            },
+            {
+              "phase": "04. Delivery & Post-Draft Fine-Tuning",
+              "duration": "Day 5",
+              "description": "Final polishing based on applicant notes and exact submission portal constraints."
+            }
+          ],
+          "clientInputsRequired": [
+            "Target university name, specific program, and department link",
+            "Official prompt questions and word/character limit constraints",
+            "Updated CV / Resume and academic transcripts",
+            "Personal reflection brief (key challenges overcome, future research vision)"
+          ],
+          "targetPersona": "career-academic"
+        },
+        {
+          "id": "executive-cv",
+          "slug": "executive-cv",
+          "title": "Executive CV & LinkedIn Optimization",
+          "categoryId": "writing-comm",
+          "categoryName": "Writing & Technical Communications",
+          "startingPrice": 80,
+          "currency": "USD",
+          "turnaroundTime": "2–4 business days",
+          "badge": "ATS-Optimized",
+          "headline": "Transforming your career history into an undeniable, metric-driven leadership document.",
+          "overview": "Modern recruitment relies on Applicant Tracking Systems (ATS) and discerning executive headhunters. We re-engineer your resume to highlight quantified business impact, strategic leadership, and domain authority. Paired with an optimized LinkedIn headline and summary that attracts inbound recruiter inquiries.",
+          "targetAudience": [
+            "Mid to C-suite executives seeking global mobility or board roles",
+            "Technical leaders (Engineers, Product Managers, Consultants)",
+            "Ambitious professionals aiming for substantial compensation jumps"
+          ],
+          "deliverables": [
+            "ATS-compliant Executive CV in editable Word and polished PDF formats",
+            "Action-verb & quantified accomplishment bullet engineering",
+            "Keyword density optimization for your specific industry sector",
+            "Complete LinkedIn profile revamp copy (Headline, About, Experience)",
+            "Customizable Executive Cover Letter template"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Career Audit",
+              "duration": "Day 1",
+              "description": "Dissecting previous achievements, measurable ROI delivered, and career target."
+            },
+            {
+              "phase": "02. Content Transformation",
+              "duration": "Day 2",
+              "description": "Re-writing experience bullets using the Google XYZ formula (Accomplished [X] as measured by [Y] by doing [Z])."
+            },
+            {
+              "phase": "03. LinkedIn & Cover Letter Integration",
+              "duration": "Day 3",
+              "description": "Harmonizing online profile with your new executive document."
+            }
+          ],
+          "clientInputsRequired": [
+            "Current resume / CV (even if outdated)",
+            "Target job titles and links to 2-3 desired job postings",
+            "Quantified milestones (e.g. revenue grown, team size managed, cost saved)"
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "pitch-deck-copywriting",
+          "slug": "pitch-deck-copywriting",
+          "title": "Investor Pitch Deck Narrative & Copy",
+          "categoryId": "writing-comm",
+          "categoryName": "Writing & Technical Communications",
+          "startingPrice": 150,
+          "currency": "USD",
+          "turnaroundTime": "4–6 business days",
+          "badge": "High Conversion",
+          "headline": "A cohesive 12–15 slide investor storyline engineered to capture venture capital backing.",
+          "overview": "Investors don't fund features; they fund market opportunities and visionary founders who can execute. We distill complex business models into a punchy, emotionally resonant slide narrative that passes the 3-minute investor attention test.",
+          "targetAudience": [
+            "Pre-seed and Seed founders preparing for fundraising roadshows",
+            "Startups applying to Y Combinator, Techstars, or regional accelerators",
+            "Joint venture partners seeking capital infusion"
+          ],
+          "deliverables": [
+            "12–15 slide written content narrative (Slide-by-slide copy & speaker notes)",
+            "Problem-Solution formulation with TAM/SAM/SOM market sizing framing",
+            "Unit economics & business model clarity breakdown",
+            "Competitive differentiation moat mapping",
+            "Investor 'One-Pager' executive summary flyer"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Founder Interview",
+              "duration": "Day 1",
+              "description": "Deep dive into your secret sauce, traction metrics, and customer validation."
+            },
+            {
+              "phase": "02. Story Arc & Slide Scripting",
+              "duration": "Days 2–4",
+              "description": "Drafting the investor journey from problem hook to the financial ask."
+            },
+            {
+              "phase": "03. Polish & Rehearsal Notes",
+              "duration": "Days 5–6",
+              "description": "Condensing copy for maximum slide visual impact + founder talking cues."
+            }
+          ],
+          "clientInputsRequired": [
+            "Current deck or draft notes",
+            "Core metrics (Users, MRR, retention, customer acquisition cost)",
+            "Funding target and intended capital allocation"
+          ],
+          "targetPersona": "entrepreneur"
+        }
+      ]
+    },
+    {
+      "id": "business-strategy",
+      "slug": "business-strategy",
+      "name": "Business Strategy & Advisory",
+      "tagline": "Bankable Business Plans, Financial Projections & Commercial Roadmaps",
+      "description": "Institutional-grade strategy, financial modeling, and feasibility research that unlock bank financing, investor capital, and operational clarity.",
+      "startingPriceNote": "From $200",
+      "iconName": "Briefcase",
+      "services": [
+        {
+          "id": "business-plan",
+          "slug": "business-plan",
+          "title": "Comprehensive Bankable Business Plan",
+          "categoryId": "business-strategy",
+          "categoryName": "Business Strategy & Advisory",
+          "startingPrice": 250,
+          "currency": "USD",
+          "turnaroundTime": "7–10 business days",
+          "badge": "Bank Approved",
+          "headline": "Rigorous, structured 30–45 page business documentation for commercial banks, grants, and investors.",
+          "overview": "Whether securing credit facilities from commercial lenders, applying for public sector enterprise funds, or onboarding equity partners, our business plans combine exhaustive market analysis, operational blueprints, and defensive financial projections.",
+          "targetAudience": [
+            "Entrepreneurs seeking commercial bank loans and credit lines",
+            "Enterprises bidding for government tenders or enterprise grants",
+            "Expanding businesses opening new regional facilities"
+          ],
+          "deliverables": [
+            "30–45 page comprehensive Business Plan (Word & Presentation PDF)",
+            "Executive Summary & Value Proposition breakdown",
+            "In-depth Industry Analysis & Competitive Landscape Mapping",
+            "Marketing, Sales & Operational Blueprint",
+            "SWOT, PESTEL & Risk Mitigation Matrices",
+            "Management Team Organizational Structure"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Strategic Brief & Market Research",
+              "duration": "Days 1–3",
+              "description": "Industry benchmarking, regional market sizing, regulatory analysis."
+            },
+            {
+              "phase": "02. Operations & Strategy Formulation",
+              "duration": "Days 4–7",
+              "description": "Detailed marketing channels, supply chain, and risk mitigation protocols."
+            },
+            {
+              "phase": "03. Financial Integration & Review",
+              "duration": "Days 8–9",
+              "description": "Aligning text analysis with your operational numbers."
+            },
+            {
+              "phase": "04. Presentation Handoff",
+              "duration": "Day 10",
+              "description": "Executive document delivery and stakeholder feedback adjustments."
+            }
+          ],
+          "clientInputsRequired": [
+            "Business registration details & ownership structure",
+            "Product/service pricing model and current unit costs",
+            "Funding amount sought and specific lender/grant requirements",
+            "Target launch date and geographic location details"
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "financial-model",
+          "slug": "financial-model",
+          "title": "Dynamic 3-5 Year Financial Model & Projections",
+          "categoryId": "business-strategy",
+          "categoryName": "Business Strategy & Advisory",
+          "startingPrice": 200,
+          "currency": "USD",
+          "turnaroundTime": "5–7 business days",
+          "badge": "CFO-Grade",
+          "headline": "Interactive financial workbook with revenue drivers, cash flows, and scenario stress testing.",
+          "overview": "A dynamic, formula-driven Excel model including integrated Income Statements (P&L), Balance Sheets, Cash Flow Forecasts, and sensitivity analysis. Built to stand up to rigorous scrutiny by bank credit officers and venture analysts.",
+          "targetAudience": [
+            "Startups and expanding SMEs needing institutional financial rigor",
+            "Companies evaluating new product lines or capital expenditure",
+            "Founders determining burn rate and runway"
+          ],
+          "deliverables": [
+            "Interactive Microsoft Excel (.xlsx) financial workbook with dynamic formulas",
+            "Integrated 3-Statement Model: P&L, Balance Sheet, Cash Flow",
+            "Monthly forecast for Year 1, quarterly/annual for Years 2–5",
+            "Break-Even Analysis, Gross Margin & EBITDA schedules",
+            "Scenario Switcher (Base Case, Bull Case, Bear Case)",
+            "Executive Summary dashboard with visual charts for pitch presentations"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Assumptions Workshop",
+              "duration": "Days 1–2",
+              "description": "Gathering operational costs, hiring plan, pricing tiers, and inventory lead times."
+            },
+            {
+              "phase": "02. Architecture & Formula Engine",
+              "duration": "Days 3–5",
+              "description": "Building dynamic revenue schedules, OPEX, CAPEX, and tax formulas."
+            },
+            {
+              "phase": "03. Sensitivity Analysis & Sign-Off",
+              "duration": "Days 6–7",
+              "description": "Stress-testing edge cases and delivering instructions walkthrough."
+            }
+          ],
+          "clientInputsRequired": [
+            "Detailed historical sales numbers (if already operating)",
+            "Planned pricing, cost of goods sold (COGS), and payment terms",
+            "Staff payroll estimates and overhead operating expenditures"
+          ],
+          "targetPersona": "entrepreneur"
+        }
+      ]
+    },
+    {
+      "id": "social-marketing",
+      "slug": "social-marketing",
+      "name": "Social Marketing & Growth",
+      "tagline": "Organic Social Engines, Paid Performance Campaigns & Content Strategy",
+      "description": "Scale your brand voice, acquire high-intent customers, and generate consistent inbound pipeline.",
+      "startingPriceNote": "From $250",
+      "iconName": "Share2",
+      "services": [
+        {
+          "id": "growth-marketing",
+          "slug": "growth-marketing",
+          "title": "Monthly Growth Marketing & SMM Management",
+          "categoryId": "social-marketing",
+          "categoryName": "Social Marketing & Growth",
+          "startingPrice": 350,
+          "currency": "USD",
+          "turnaroundTime": "Monthly retainer / 5-day setup",
+          "badge": "High ROI",
+          "headline": "Done-for-you content creation, scheduling, community management, and analytics.",
+          "overview": "Stop wasting time posting sporadically. TACO STUDIOS manages your social media channels end-to-end with high-caliber graphics, strategic copy, community engagement, and monthly performance reporting.",
+          "targetAudience": [
+            "B2B service providers and professional practices",
+            "Lifestyle, fashion, and retail consumer brands",
+            "Founders who need an authoritative digital presence without the overhead"
+          ],
+          "deliverables": [
+            "Monthly Content Calendar (16–20 custom branded posts)",
+            "High-end visual creatives, carousels, and motion graphics",
+            "Persuasive copywriting and niche hashtag architecture",
+            "Active community engagement and DM response protocol",
+            "Bi-weekly performance dashboard with reach and lead metrics"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Brand Voice & Audience Audit",
+              "duration": "Days 1–3",
+              "description": "Channel analysis, tone calibration, and competitor opportunity mapping."
+            },
+            {
+              "phase": "02. Content Calendar Production",
+              "duration": "Days 4–7",
+              "description": "Designing graphics, drafting captions, and client pre-approval."
+            },
+            {
+              "phase": "03. Daily Publishing & Engagement",
+              "duration": "Ongoing",
+              "description": "Scheduled posting at peak hours and real-time interaction."
+            }
+          ],
+          "clientInputsRequired": [
+            "Access to social media business accounts (or delegate admin permissions)",
+            "Brand asset folder (photos, logos, product videos)",
+            "Key campaigns, product launches, or announcements for the month"
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "content-engine",
+          "slug": "content-engine",
+          "title": "High-Impact Content Engine & Video Scripting",
+          "categoryId": "social-marketing",
+          "categoryName": "Social Marketing & Growth",
+          "startingPrice": 250,
+          "currency": "USD",
+          "turnaroundTime": "4–6 business days",
+          "headline": "Viral short-form video hooks, thought leadership articles, and newsletter blueprints.",
+          "overview": "Authority is built through consistent, insightful thought leadership. We write compelling short-form video scripts (TikTok/Reels/Shorts), long-form LinkedIn thought leadership articles, and retention-focused email newsletters.",
+          "targetAudience": [
+            "Executives establishing industry dominance on LinkedIn",
+            "Creators building audience trust and monetization pipelines",
+            "Brands expanding into short-form vertical video"
+          ],
+          "deliverables": [
+            "10 High-retention short-form video scripts (Hooks, Retainers, CTAs)",
+            "3 Deep-dive LinkedIn / Substack thought leadership essays",
+            "2 Email newsletter campaign broadcasts",
+            "Bespoke content distribution playbook"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Topic Research & Trending Hooks",
+              "duration": "Days 1–2",
+              "description": "Identifying high-engagement questions in your niche."
+            },
+            {
+              "phase": "02. Scriptwriting & Essay Crafting",
+              "duration": "Days 3–4",
+              "description": "Writing punchy scripts with visual director cues."
+            },
+            {
+              "phase": "03. Handoff & Recording Guides",
+              "duration": "Day 5",
+              "description": "Providing teleprompter-ready text and recording recommendations."
+            }
+          ],
+          "clientInputsRequired": [
+            "Niche topic pillars and personal viewpoint on industry debates",
+            "Target platforms (LinkedIn, Instagram Reels, TikTok, YouTube)",
+            "Existing high-performing posts or topics you wish to expand"
+          ],
+          "targetPersona": "entrepreneur"
+        }
+      ]
+    },
+    {
+      "id": "research-intel",
+      "slug": "research-intel",
+      "name": "Research & Market Intelligence",
+      "tagline": "Industry Feasibility Studies, Competitor Dossiers & Consumer Analytics",
+      "description": "Empirical intelligence and commercial data that eliminate guesswork before capital is deployed.",
+      "startingPriceNote": "From $260",
+      "iconName": "Search",
+      "services": [
+        {
+          "id": "market-research",
+          "slug": "market-research",
+          "title": "Custom Market Research & Industry Report",
+          "categoryId": "research-intel",
+          "categoryName": "Research & Market Intelligence",
+          "startingPrice": 320,
+          "currency": "USD",
+          "turnaroundTime": "7–10 business days",
+          "badge": "Data Driven",
+          "headline": "Exhaustive commercial intelligence report mapping market size, trends, and entry barriers.",
+          "overview": "Entering a new market or launching a high-capital product without verified data is reckless. We conduct rigorous secondary and primary research, compiling actionable reports with consumer demographic breakdowns, supply chain dynamics, and regulatory compliance paths.",
+          "targetAudience": [
+            "Firms expanding into West African or international markets",
+            "Investors conducting commercial due diligence on acquisition targets",
+            "Product teams validating market demand prior to manufacturing"
+          ],
+          "deliverables": [
+            "25–35 page formatted Market Intelligence Dossier",
+            "TAM, SAM, SOM market sizing calculations",
+            "Macroeconomic & regulatory landscape analysis",
+            "Consumer demographic segmentation and purchasing power indexes",
+            "Key strategic recommendations and go-to-market risks"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Scope & Research Methodology",
+              "duration": "Days 1–2",
+              "description": "Defining parameters, geography, data sources, and industry verticals."
+            },
+            {
+              "phase": "02. Data Mining & Field Synthesis",
+              "duration": "Days 3–6",
+              "description": "Aggregating census data, trade statistics, import/export records, and peer journals."
+            },
+            {
+              "phase": "03. Analysis & Executive Report Writing",
+              "duration": "Days 7–9",
+              "description": "Synthesizing findings into clear executive charts and actionable takeaways."
+            },
+            {
+              "phase": "04. Strategic Debrief Session",
+              "duration": "Day 10",
+              "description": "Interactive Q&A reviewing implications for your business model."
+            }
+          ],
+          "clientInputsRequired": [
+            "Target sector, geographic territory, and specific research questions",
+            "Core hypotheses you need proven or disproven",
+            "Intended use case (e.g., investor presentation, internal strategy, expansion)"
+          ],
+          "targetPersona": "entrepreneur"
+        },
+        {
+          "id": "competitor-intelligence",
+          "slug": "competitor-intelligence",
+          "title": "Competitor Intelligence & Moat Analysis",
+          "categoryId": "research-intel",
+          "categoryName": "Research & Market Intelligence",
+          "startingPrice": 280,
+          "currency": "USD",
+          "turnaroundTime": "5–7 business days",
+          "headline": "In-depth reverse engineering of competitor pricing, channels, and customer sentiment.",
+          "overview": "Gain an unfair advantage by understanding exactly how rival players acquire customers, what weaknesses their users complain about, and where untapped price points exist in your market.",
+          "targetAudience": [
+            "Companies aiming to unseat entrenched market incumbents",
+            "Agencies refining unique positioning statements",
+            "SaaS founders mapping feature parity and differentiation"
+          ],
+          "deliverables": [
+            "Detailed comparative matrix across top 5 direct & indirect competitors",
+            "Reverse-engineered pricing and packaging breakdown",
+            "Customer sentiment & negative review gap analysis",
+            "Digital footprint & marketing channel traffic audit",
+            "Strategic 'White Space' positioning recommendations"
+          ],
+          "workflowPhases": [
+            {
+              "phase": "01. Competitor Identification",
+              "duration": "Day 1",
+              "description": "Auditing direct competitors, indirect substitutes, and emerging startups."
+            },
+            {
+              "phase": "02. Deep Investigation",
+              "duration": "Days 2–4",
+              "description": "Mystery shopping, review analysis, tech stack and SEO reverse engineering."
+            },
+            {
+              "phase": "03. Moat Matrix & Playbook",
+              "duration": "Days 5–6",
+              "description": "Documenting actionable tactical vulnerabilities to exploit."
+            }
+          ],
+          "clientInputsRequired": [
+            "Names of your top 3 known competitors",
+            "Your planned value proposition and pricing range",
+            "Specific areas of interest (pricing, marketing channels, tech stack)"
+          ],
+          "targetPersona": "entrepreneur"
+        }
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "id": "starter-brand",
+      "name": "Starter Brand Suite",
+      "tagline": "The Essential Visual Launchpad for Ambitious New Ventures",
+      "price": 450,
+      "savingsNote": "Save $120 vs. Individual Services",
+      "turnaroundTime": "7–9 business days",
+      "popular": false,
+      "idealFor": "New startups, boutique agencies, and solo founders ready to look like an established market leader on day one.",
+      "includedServices": [
+        "Corporate Logo & Visual Mark ($75 value)",
+        "Executive Brand Identity Guidelines ($180 value)",
+        "Stationery & Business Card Press Files ($90 value)",
+        "Social Media Avatar & Header Kit ($80 value)",
+        "Executive CV / Founder Profile Revamp ($80 value)"
+      ],
+      "deliverables": [
+        "Master vector logo files (AI, EPS, SVG, PNG)",
+        "Official 15-page Brand Guidelines manual",
+        "Business card, letterhead & digital signature templates",
+        "Social media banner templates across LinkedIn, X, IG",
+        "Revamped Founder Executive CV & LinkedIn Bio"
+      ],
+      "clientInputs": [
+        "Company Name, Mission & Target Demographic",
+        "Aesthetic preferences and preferred color palette",
+        "Founder career summary for the executive bio"
+      ],
+      "targetPersona": "entrepreneur"
+    },
+    {
+      "id": "business-launch",
+      "name": "Complete Business Launch",
+      "tagline": "The Full Turnkey Package: Strategic Foundation, Brand & Capital Readiness",
+      "price": 950,
+      "savingsNote": "Save $230 vs. Individual Services",
+      "turnaroundTime": "12–15 business days",
+      "popular": true,
+      "idealFor": "Entrepreneurs launching serious enterprises requiring bank loan approval, investor pitch readiness, and market-ready branding.",
+      "includedServices": [
+        "Comprehensive Bankable Business Plan ($250 value)",
+        "Dynamic 3-5 Year Financial Model ($200 value)",
+        "Full Brand Identity System ($180 value)",
+        "Investor Pitch Deck Narrative ($150 value)",
+        "Competitor Intelligence Moat Dossier ($280 value)"
+      ],
+      "deliverables": [
+        "35+ page institutional Business Plan document",
+        "Interactive Excel 3-Statement Financial Model",
+        "Complete Brand Guidelines and Logo Vector Suite",
+        "15-slide Investor Pitch Deck storyline script",
+        "Competitor analysis matrix & go-to-market recommendations"
+      ],
+      "clientInputs": [
+        "Business concept, product specs, and operational structure",
+        "Funding target and loan/investor criteria",
+        "Initial cost assumptions and pricing guidelines"
+      ],
+      "targetPersona": "entrepreneur"
+    },
+    {
+      "id": "digital-growth",
+      "name": "Enterprise Digital Growth",
+      "tagline": "End-to-End Flagship Engineering, Marketing Engine & Market Dominance",
+      "price": 1800,
+      "savingsNote": "Save $420 vs. Individual Services",
+      "turnaroundTime": "15–20 business days",
+      "popular": false,
+      "idealFor": "Established organizations, scale-ups, and international firms demanding a top-tier digital presence paired with ongoing marketing pipelines.",
+      "includedServices": [
+        "Custom Production Web Development ($900 value)",
+        "High-Converting UI/UX Prototype ($500 value)",
+        "1-Month Growth Marketing & Content Engine ($350 value)",
+        "Custom Market Intelligence & Industry Report ($320 value)",
+        "Paystack & Payment Gateway Integration ($150 value)"
+      ],
+      "deliverables": [
+        "Full-stack React / Next.js production web app deployed to CDN",
+        "Interactive Figma high-fidelity UI prototype",
+        "Paystack / Mobile Money payment integration",
+        "1-Month done-for-you social media & content calendar",
+        "25-page bespoke Market Intelligence report"
+      ],
+      "clientInputs": [
+        "Website content outlines, media, and domain access",
+        "Product/service pricing structure for payment setup",
+        "Target market and geography for intelligence report"
+      ],
+      "targetPersona": "entrepreneur"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "campus-ambassador",
+      "title": "TACO Campus Ambassador",
+      "category": "ambassador",
+      "compensation": "15% Commission on closed student & institutional deals + Stipends",
+      "commitment": "Flexible (4–8 hrs/week)",
+      "location": "Major African & Global University Campuses (UG, KNUST, Ashesi, UCL, Harvard, etc.)",
+      "description": "Represent the TACO GLOBAL and TACO STUDIOS ecosystem on your university campus. Connect graduating students, student founders, and researchers with our high-success SOP writing, CV revamp, and venture planning services.",
+      "responsibilities": [
+        "Organize peer workshops on graduate school applications and SOP excellence",
+        "Connect student entrepreneurs and campus clubs with TACO STUDIOS design & business planning",
+        "Distribute exclusive campus discount codes and track referral payouts",
+        "Act as the primary voice of TACO on campus leadership boards"
+      ],
+      "requirements": [
+        "Currently enrolled undergraduate or postgraduate student in good academic standing",
+        "Active member of student leadership, entrepreneurship cells, or departmental clubs",
+        "Strong interpersonal communication and self-starter mindset"
+      ],
+      "perks": [
+        "15% direct commission on all campus referrals",
+        "Official Certificate of Leadership from TACO GLOBAL Executive Council",
+        "Free review of your personal CV and graduate school SOP",
+        "Direct mentorship from senior TACO leadership"
+      ]
+    },
+    {
+      "id": "referral-partner",
+      "title": "Commercial Referral Partner",
+      "category": "partner",
+      "compensation": "10%–15% Recurring Commission per referred corporate client contract",
+      "commitment": "Remote / Independent",
+      "location": "Global",
+      "description": "Ideal for business consultants, lawyers, corporate accountants, and agency owners who frequently advise businesses needing web development, business plans, financial models, or brand identity.",
+      "responsibilities": [
+        "Introduce your corporate clients or network members to TACO STUDIOS solutions",
+        "Seamlessly register client leads via your dedicated TACO Partner link or concierge channel",
+        "Receive direct commission wire payouts within 48 hours of client invoice clearance"
+      ],
+      "requirements": [
+        "Established network of business owners, founders, or enterprise clients",
+        "Commitment to high professional standards and integrity"
+      ],
+      "perks": [
+        "Earn $100 to $500+ per referred client engagement",
+        "Dedicated TACO Partner Concierge for expedited turnaround on your clients' projects",
+        "Monthly partner earnings statement and transparent tracking"
+      ]
+    },
+    {
+      "id": "specialist-network",
+      "title": "TACO Specialist Network (Freelance Associate)",
+      "category": "specialist",
+      "compensation": "Competitive Project-Based Payouts (Milestone Escrow)",
+      "commitment": "Project by Project",
+      "location": "Remote Global",
+      "description": "Join our elite roster of vetted technical writers, brand designers, financial modelers, and full-stack software engineers who execute high-stakes client briefs under the TACO STUDIOS standard.",
+      "responsibilities": [
+        "Execute assigned client deliverables according to TACO rigorous quality benchmarks",
+        "Participate in sprint check-ins and client feedback iterations",
+        "Maintain absolute client confidentiality and strict adherence to turnaround schedules"
+      ],
+      "requirements": [
+        "Demonstrated portfolio of past commercial work in design, financial modeling, or technical writing",
+        "Rigorous attention to detail and zero tolerance for plagiarism or generic AI output",
+        "Reliable high-speed internet and professional communication etiquette"
+      ],
+      "perks": [
+        "Consistent flow of pre-qualified, well-paying client projects",
+        "Zero time spent prospecting or chasing invoices; TACO handles all billing and collections",
+        "Collaborate alongside top-tier global talent"
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "case-oxford-sop",
+      "title": "Rhodes & Oxford MSc Public Policy Admission",
+      "client": "Kwame B., Accra / Oxford",
+      "category": "writing-comm",
+      "sector": "Higher Education & Global Scholarships",
+      "metric": "100%",
+      "metricLabel": "Full Scholarship Awarded",
+      "summary": "Engineered a deeply persuasive, philosophically grounded Statement of Purpose connecting West African trade policy with Oxford's Blavatnik School of Government curriculum.",
+      "deliverables": [
+        "Statement of Purpose",
+        "Academic CV",
+        "Scholarship Proposal"
+      ],
+      "outcome": "Admitted with full tuition and living stipend coverage valued at £68,000."
+    },
+    {
+      "id": "case-fintech-deck",
+      "title": "ZedPay Cross-Border Remittance Seed Raise",
+      "client": "ZedPay Technologies, Lagos / London",
+      "category": "business-strategy",
+      "sector": "Fintech & Cross-Border Payments",
+      "metric": "$450,000",
+      "metricLabel": "Seed Capital Secured",
+      "summary": "Constructed an institutional-grade 3-statement financial forecast and an airtight 14-slide investor narrative showcasing unit economics and regulatory compliance.",
+      "deliverables": [
+        "Financial Model & P&L",
+        "Investor Pitch Deck Narrative",
+        "Bankable Business Plan"
+      ],
+      "outcome": "Successfully closed $450K seed round led by regional angel syndicate in 60 days."
+    },
+    {
+      "id": "case-luxury-brand",
+      "title": "Aura Luxury Living Brand Identity & Flagship Site",
+      "client": "Aura Living Group, East Legon",
+      "category": "creative-digital",
+      "sector": "Real Estate & Hospitality",
+      "metric": "+240%",
+      "metricLabel": "Inbound Lead Inquiries",
+      "summary": "Designed a luxury brand system, 3D architectural asset package, and Next.js web application with integrated client inquiry booking and Paystack reservation deposits.",
+      "deliverables": [
+        "Brand Identity System",
+        "Figma UI/UX Prototype",
+        "Custom Web Development"
+      ],
+      "outcome": "Generated 48 high-net-worth investor inquiries in the first 3 weeks post-launch."
+    },
+    {
+      "id": "case-agritech-market",
+      "title": "West Africa Cashew Processing Feasibility Study",
+      "client": "Oasis Agro Allied Industries",
+      "category": "research-intel",
+      "sector": "Agriculture & Supply Chain",
+      "metric": "$1.2M",
+      "metricLabel": "Commercial Debt Line Approved",
+      "summary": "Conducted extensive primary field research, export price modeling, and factory capacity feasibility study for a major agricultural processor.",
+      "deliverables": [
+        "35-Page Market Intelligence Dossier",
+        "Bank Feasibility Study",
+        "Risk Mitigation Blueprint"
+      ],
+      "outcome": "Approved for $1.2M commercial development bank loan facility."
+    }
+  ],
+  "personas": [
+    {
+      "id": "entrepreneur",
+      "tabLabel": "I am an Entrepreneur",
+      "badge": "Client Persona",
+      "title": "Launch & Scale Your Enterprise",
+      "tagline": "High-impact visual identity, bank-approved business plans, investor pitch decks, and production-grade web systems.",
+      "goal": "Needs visual identity, branding, pitch decks, business plans, and digital platforms to launch or scale a business.",
+      "touchpoints": "TACO STUDIOS (Creative & Digital, Business & Strategy, Web Dev)",
+      "primaryCtaText": "Launch My Brand",
+      "secondaryCtaText": "Get Business Plan Quote",
+      "secondaryCtaPath": "/studios/service/business-plan",
+      "iconName": "Briefcase",
+      "featuredOfferings": [
+        {
+          "title": "Corporate Logo & Visual Mark",
+          "priceNote": "From $75",
+          "slug": "logo-design",
+          "actionType": "service",
+          "actionTarget": "logo-design"
+        },
+        {
+          "title": "Bankable Business Plan",
+          "priceNote": "From $250",
+          "slug": "business-plan",
+          "actionType": "service",
+          "actionTarget": "business-plan"
+        },
+        {
+          "title": "Production Web Development",
+          "priceNote": "From $900",
+          "slug": "web-development",
+          "actionType": "service",
+          "actionTarget": "web-development"
+        },
+        {
+          "title": "Starter Brand Suite",
+          "priceNote": "Bundle $450",
+          "slug": "starter-brand-suite",
+          "actionType": "modal",
+          "actionTarget": "starter-brand-suite"
+        }
+      ]
+    },
+    {
+      "id": "career-academic",
+      "tabLabel": "I am a Job / School Applicant",
+      "badge": "Client Persona",
+      "title": "Accelerate Career & Admissions Success",
+      "tagline": "Ivy League and Russell Group vetted Statements of Purpose, executive C-suite CVs, and technical document polishing.",
+      "goal": "Seeking career progression, international academic admissions, or high-stakes employment opportunities.",
+      "touchpoints": "TACO STUDIOS (Writing & Communication)",
+      "primaryCtaText": "Request SOP",
+      "secondaryCtaText": "Revamp My CV",
+      "secondaryCtaPath": "/studios/service/executive-cv-linkedin",
+      "iconName": "GraduationCap",
+      "featuredOfferings": [
+        {
+          "title": "Statement of Purpose (SOP)",
+          "priceNote": "From $100",
+          "slug": "sop-writing",
+          "actionType": "service",
+          "actionTarget": "sop-writing"
+        },
+        {
+          "title": "Executive CV & LinkedIn Revamp",
+          "priceNote": "From $80",
+          "slug": "executive-cv-linkedin",
+          "actionType": "service",
+          "actionTarget": "executive-cv-linkedin"
+        },
+        {
+          "title": "Academic Essay Editing & Polish",
+          "priceNote": "From $65",
+          "slug": "academic-essay-editing",
+          "actionType": "service",
+          "actionTarget": "academic-essay-editing"
+        },
+        {
+          "title": "Polish My Documents",
+          "priceNote": "Custom Scope",
+          "slug": "sop-writing",
+          "actionType": "modal",
+          "actionTarget": "sop-writing"
+        }
+      ]
+    },
+    {
+      "id": "talent-ambassador",
+      "tabLabel": "I want to Join / Partner",
+      "badge": "People & Opportunities",
+      "title": "Earn, Lead & Represent TACO Globally",
+      "tagline": "15% university commission as a Campus Ambassador, recurring corporate referral fees, or specialist freelance briefs.",
+      "goal": "Looking for work experience, side income, leadership training, or brand partnership opportunities.",
+      "touchpoints": "TACO GLOBAL (/opportunities route)",
+      "primaryCtaText": "Apply as Campus Ambassador",
+      "secondaryCtaText": "Become a Referral Partner",
+      "secondaryCtaPath": "/opportunities",
+      "iconName": "Users",
+      "featuredOfferings": [
+        {
+          "title": "Campus Ambassador Program",
+          "priceNote": "15% Commission",
+          "slug": "campus-ambassador",
+          "actionType": "route",
+          "actionTarget": "/opportunities"
+        },
+        {
+          "title": "Commercial Referral Partner",
+          "priceNote": "10-15% Recurring",
+          "slug": "referral-partner",
+          "actionType": "route",
+          "actionTarget": "/opportunities"
+        },
+        {
+          "title": "Specialist Talent Roster",
+          "priceNote": "Project Payouts",
+          "slug": "specialist-network",
+          "actionType": "route",
+          "actionTarget": "/opportunities"
+        },
+        {
+          "title": "Executive Leadership Training",
+          "priceNote": "Mentorship",
+          "slug": "leadership",
+          "actionType": "route",
+          "actionTarget": "/opportunities"
+        }
+      ]
+    },
+    {
+      "id": "enterprise-institutional",
+      "tabLabel": "I need Research / Strategy",
+      "badge": "Development & Advisory",
+      "title": "Institutional Intelligence & Feasibility",
+      "tagline": "Empirical market feasibility dossiers, regulatory intelligence, and cross-border commercial strategy across African corridors.",
+      "goal": "Seeking high-level market research, strategic reports, intelligence gathering, or long-term ecosystem alignment.",
+      "touchpoints": "TACO GLOBAL (/about, /studios/research-intel, Ecosystem Overview)",
+      "primaryCtaText": "Commission Market Report",
+      "secondaryCtaText": "Request Strategic Consultation",
+      "secondaryCtaPath": "/contact",
+      "iconName": "Building2",
+      "featuredOfferings": [
+        {
+          "title": "Market Research & Intelligence",
+          "priceNote": "From $320",
+          "slug": "market-research-intelligence",
+          "actionType": "service",
+          "actionTarget": "market-research-intelligence"
+        },
+        {
+          "title": "Commercial Feasibility Study",
+          "priceNote": "From $400",
+          "slug": "feasibility-study",
+          "actionType": "service",
+          "actionTarget": "feasibility-study"
+        },
+        {
+          "title": "Bilateral Trade Advisory",
+          "priceNote": "Custom Brief",
+          "slug": "market-research-intelligence",
+          "actionType": "modal",
+          "actionTarget": "market-research-intelligence"
+        },
+        {
+          "title": "Ecosystem Long-Term Alignment",
+          "priceNote": "Institutional",
+          "slug": "feasibility-study",
+          "actionType": "route",
+          "actionTarget": "/about"
+        }
+      ]
+    }
+  ]
+}

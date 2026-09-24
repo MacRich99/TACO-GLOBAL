@@ -1,0 +1,6 @@
+{
+  "name": "TAC GLOBAL & TAC STUDIOS",
+  "description": "The premier global ecosystem for creative digital production, high-impact business strategy, technical communications, and executive solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

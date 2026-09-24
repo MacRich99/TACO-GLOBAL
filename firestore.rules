@@ -1,0 +1,52 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isAuthenticated() && 
+        (request.auth.token.role == 'admin' || 
+         request.auth.token.email == 'awudeyrichard@gmail.com' ||
+         exists(/databases/$(database)/documents/users/$(request.auth.uid)) && 
+         get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin');
+    }
+
+    // 1. Users collection
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated() && request.auth.uid == userId;
+      allow update: if isOwner(userId) || isAdmin();
+      allow delete: if isAdmin();
+    }
+
+    // 2. Services collection (catalog accessible to all, mutable by admin)
+    match /services/{serviceId} {
+      allow read: if true;
+      allow write: if isAdmin() || !isAuthenticated(); // Open for initial seed, admin for runtime edits
+    }
+
+    // 3. Projects collection
+    match /projects/{projectId} {
+      allow read: if isAuthenticated() && (resource.data.client_id == request.auth.uid || resource.data.client_email == request.auth.token.email || isAdmin());
+      allow create: if isAuthenticated();
+      allow update: if isAuthenticated() && (resource.data.client_id == request.auth.uid || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // 4. Applications collection
+    match /applications/{applicationId} {
+      allow read: if isAuthenticated() && (resource.data.user_id == request.auth.uid || isAdmin());
+      allow create: if true; // allow guest submissions
+      allow update: if isAdmin();
+      allow delete: if isAdmin();
+    }
+  }
+}
